@@ -1,0 +1,105 @@
+[
+  {
+    "response_type": "greeting",
+    "user_input": ["hello", "hi", "hey"],
+    "bot_response": "Hey there!",
+    "required_words": []
+  },
+  {
+    "response_type": "greeting",
+    "user_input": ["see you", "goodbye", "bye"],
+    "bot_response": "See you later!",
+    "required_words": []
+  },
+  {
+    "response_type": "greeting",
+    "user_input": ["nice", "to", "meet", "you"],
+    "bot_response": "The pleasure is all mine!",
+    "required_words": ["nice", "meet", "you"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["how", "to", "learn", "code", "coding", "apps"],
+    "bot_response": "Start by typing: 'How to learn coding' on Google.",
+    "required_words": ["learn", "code"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["refund", "how", "can", "I", "get"],
+    "bot_response": "We don't offer refunds for free education.",
+    "required_words": ["refund", "i"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["how", "are", "you"],
+    "bot_response": "I'm great! Thanks for asking.",
+    "required_words": ["how", "are", "you"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["pudhumai", "penn", "scheme"],
+    "bot_response": "The scheme provides financial assistance of Rs. 1,000 per month to girls studying in 6th-12th classes in government schools till they complete their UG degree, ITI, diploma, or any other recognized course, irrespective of the field Attach the necessary documents, such as Aadhaar card,Community certificate,Income certificate,Educational certificate,Bank account details",
+    "required_words": ["pudhumai", "penn"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["varumun", "kaapom", "thittam"],
+    "bot_response": "The scheme’s goal is to diagnose and prevent 17 different health conditions, including ENT issues, blood pressure, cholesterol, sugar levels, bone and joint problems, diphtheria, psychiatric, and kidney-related issues.Approximately 1,250 camps will be held across Tamil Nadu to facilitate this preventive care.These camps will offer specialized medical care to the poor and needy.These camps, numbering around 1,250 annually, are set to cover 385 taluks and offer services in 17 different medical departments.The scheme, which also includes the Makkalai Thedi Maruthuvam for doorstep healthcare, was revived and upgraded after a decade of inactivity, with Chief Minister MK Stalin overseeing its implementation. During the relaunch, welfare assistance worth Rs 24.74 crore was distributed to beneficiaries." ,
+    "required_words": ["varumun", "kaapom","thittam"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["free", "degree", "scheme","for","women"],
+    "bot_response": "The scheme aims to provide financial assistance for  poor girls and women in the state.Non-Graduate Applicants: Eligible for Rs. 25,000/- financial assistance.Graduate or Diploma Holder Applicants: Eligible for Rs. 50,000/- financial assistance.",
+    "required_words": ["free", "degree", "scheme"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["anjugam", "ammaiyar", "memorial","intercaste","marriage"],
+    "bot_response": "The scheme seeks to abolish caste and community-based prejudices by encouraging inter-caste marriages.By providing financial assistance, it aims to foster social harmony and break down barriers.The eligible couple receives Rs 60,000 in funds and an eight-gram (22-carat) gold coin.The scheme does not exclude Christians or Muslims; it is open to all.",
+    "required_words": ["intercaste", "marriage"]
+  },     
+  {
+    "response_type": "question",
+    "user_input": ["naan", "mudhalvan"],
+    "bot_response": "The Naan Mudhalvan Scheme is a remarkable initiative launched by the Tamil Nadu government to empower the youth of the state.The Naan Mudhalvan platform enables students to access information on various courses related to their chosen field of interest.The program provides massive industry-relevant skill enhancement for the youth of Tamil Nadu.It targets over 23 lakh students, collaborating with 2200+ institutions and offering 250+ courses through 80+ partners.",
+    "required_words": ["naan", "mudhalvan"]
+  },      
+   {
+    "response_type": "question",
+    "user_input": ["tamil", "nadu","makkaludan","mudhalvar"],
+    "bot_response": "The Tamil Nadu Makkaludan Mudhalvar Scheme is an initiative launched by the Chief Minister of Tamil Nadu, M. K. Stalin, to address grievances and petitions filed by people within a specified time frame.The scheme aims to make government services easily accessible to the people of Tamil Nadu.It focuses on resolving issues related to government services promptly and efficient",
+    "required_words": ["makkaludan", "mudhalvar"]
+  },           
+  {
+    "response_type": "question",
+    "user_input": ["tamil","nadu","chief","minister","breakfast","scheme"],
+    "bot_response": "The scheme was officially launched on September 15 2022 in Madurai.It targets students from 1st to 5th standard in government schools.The scheme offers a variety of breakfast menus ensuring a balanced dietThe Tamil Nadu government has launched a commendable initiative called the Chief Minister’s Breakfast Scheme, which is designed to provide a nutritious morning meal to primary school children. This scheme was announced on May 7, 2022, and aims to target students from the 1st to the 5th standard across government schools. The initiative kicked off on September 15, 2022, in Madurai, and currently benefits over 114,000 children in 1,545 schools. The breakfast menu is diverse and includes Uppama, Khichadi, and Pongal, with millet-based options twice a week to ensure a balanced diet. Each meal is carefully calculated to provide 293.40 calories, 9.85 grams of protein, 5.91 grams of fat, 1.64 grams of iron, and 20.41 grams of calcium, contributing significantly to the children’s daily nutritional needs.",
+    "required_words": ["chief","minister","breakfast"]
+  },          
+  {
+    "response_type": "question",
+    "user_input": ["tamil", "nadu","magalir","urimai","thogai","scheme"],
+    "bot_response": "The scheme was launched on 15th September 2023.The scheme provides financial assistance of Rs. 1,000/- per month.The beneficiaries of the scheme are women of Tamil Nadu.Individuals can apply for the scheme through the Tamil Nadu Magalir Urimai Thogai Scheme Application FormA woman from eligible families who has completed 21 years of age (born before September 15, 2002) qualifies as a beneficiaryElectricity consumption for domestic use less than 3,600 units per year.",
+    "required_words": ["magalir","urimai","thogai"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["tamil", "nadu","zero","ticket","bus","travel","scheme","for","women"],
+    "bot_response": "The scheme is called the Tamil Nadu Zero Ticket Bus Travel Scheme for Women.The scheme was launched in 2021.The primary benefit is free of cost bus travel in Tamil Nadu government-run buses, up to 30 kilometers.The beneficiaries are women of Tamil Nadu, including transgender individuals.",
+    "required_words": ["zero","ticket","bus","travel"]
+  },     
+  {
+    "response_type": "question",
+    "user_input": ["moovalur", "ramamirthamAmmaiyar","higher","education","assurance","scheme"],
+    "bot_response": "The scheme provides financial assistance to meet the cost of education.The beneficiaries are girl students of Tamil Nadu.The assistance is Rs. 1,000/- per month until the completion of the course.The nodal agency is the Department of Social Welfare and Women Empowerment, Tamil Nadu.",
+    "required_words": ["higher","education","assurance"]
+  },    
+	{
+    "response_type": "question",
+    "user_input": ["tamil", "nadu","kalaignar","sports","kit"],
+    "bot_response": "The scheme is called the Tamil Nadu Kalaignar Sports Kit Scheme.The scheme was launched on February 7, 2024.Free sports kits are provided to eligible players.The sports kit includes equipment for cricket, volleyball, football, badminton, and Silambam.They can contact the Village Panchayat Office or District Office of Youth and Sports Welfare Department of Tamil Nadu Government The scheme provides sports kits containing 33 items for various sports, including cricket, volleyball, football, badminton, and Silambam, to 12,000 village panchayats. These kits are intended to equip young athletes and encourage them to pursue excellence in sports, potentially representing Tamil Nadu and India in national and international events. While there is no online application process, eligible individuals can apply for the scheme by obtaining an application form from their local Village Panchayat Office.",
+    "required_words": ["sports","kit"]
+  } 
+
+]
